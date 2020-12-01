@@ -1,0 +1,1 @@
+let str: string = '不是吧阿sir？';
